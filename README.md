@@ -189,3 +189,4 @@ fact_social               →    500 records
 
 - **Project**: E-Commerce Data Warehouse
 - **Name**: Rahul Kumar
+- **Name**: Subhash Manne
