@@ -73,7 +73,7 @@ This project implements a **Data Warehouse** using a **Star Schema** that:
 - **Pandas** — Data analysis and CSV export
 - **HTML + Chart.js** — Interactive visual dashboard
 
-> ✅ No AWS account needed. No credit card. Runs on any laptop.
+
 
 ---
 
