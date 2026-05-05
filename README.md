@@ -188,5 +188,4 @@ fact_social               →    500 records
 ## 👤 Author
 
 - **Project**: E-Commerce Data Warehouse
-- **Name**: Rahul Kumar
-- **Name**: Subhash Manne
+- **Name**: Rahul Kumar , Subhash Manne , Manavendra A
