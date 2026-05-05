@@ -187,6 +187,5 @@ fact_social               →    500 records
 
 ## 👤 Author
 
-- **Subject**: Cloud Computing
 - **Project**: E-Commerce Data Warehouse
 - **Name**: Rahul Kumar
