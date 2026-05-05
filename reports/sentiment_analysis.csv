@@ -1,0 +1,4 @@
+sentiment,count,avg_rating
+negative,420,1.49
+positive,390,4.43
+neutral,190,3.0

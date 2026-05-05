@@ -1,0 +1,6 @@
+customer_name,region,segment,total_orders,total_spend,avg_order_value,avg_review_rating
+Customer_177,East,Regular,11,34180679.04,8443.84,2.4
+Customer_70,West,Premium,13,20359358.64,7250.48,3.0
+Customer_181,South,Regular,20,19732620.6,7830.41,2.5
+Customer_126,East,Regular,11,17502376.32,11049.48,3.6
+Customer_130,East,Regular,12,16155244.6,6119.41,2.4
